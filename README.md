@@ -1,2 +1,2 @@
 push on a branch
-mergee locally
+merge locally
